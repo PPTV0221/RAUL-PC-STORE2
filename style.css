@@ -172,13 +172,6 @@ section h2 {
   width: 100%;
 }
 
-/* Contacto */
-.contacto a {
-  color: #FF6B00;
-  font-weight: 700;
-}
-
-/* Footer */
 footer {
   background-color: #0d0d0d;
   color: #aaa;
@@ -190,7 +183,6 @@ footer .contenedor {
   padding: 20px;
 }
 
-/* Responsive */
 @media (max-width: 600px) {
   header .contenedor {
     flex-direction: column;
